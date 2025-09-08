@@ -1,758 +1,758 @@
 {
   "airport": {
-    "height": 30,
+    "height": 34,
     "pixelRatio": 2,
-    "width": 30,
-    "x": 450,
-    "y": 144
+    "width": 34,
+    "x": 238,
+    "y": 228
   },
   "airport_dark": {
     "height": 30,
     "pixelRatio": 2,
     "width": 30,
-    "x": 480,
-    "y": 144
+    "x": 482,
+    "y": 114
   },
   "art_gallery": {
-    "height": 34,
+    "height": 38,
     "pixelRatio": 2,
-    "width": 30,
-    "x": 30,
-    "y": 38
+    "width": 34,
+    "x": 0,
+    "y": 0
   },
   "art_gallery_dark": {
     "height": 34,
     "pixelRatio": 2,
     "width": 30,
-    "x": 76,
-    "y": 0
+    "x": 0,
+    "y": 266
   },
   "atm": {
-    "height": 34,
+    "height": 38,
     "pixelRatio": 2,
-    "width": 30,
-    "x": 106,
+    "width": 34,
+    "x": 34,
     "y": 0
   },
   "atm_dark": {
     "height": 34,
     "pixelRatio": 2,
     "width": 30,
-    "x": 60,
-    "y": 38
+    "x": 30,
+    "y": 266
   },
   "attraction": {
-    "height": 34,
+    "height": 38,
     "pixelRatio": 2,
-    "width": 30,
-    "x": 90,
+    "width": 34,
+    "x": 0,
     "y": 38
   },
   "attraction_dark": {
     "height": 34,
     "pixelRatio": 2,
     "width": 30,
-    "x": 120,
-    "y": 38
+    "x": 60,
+    "y": 266
   },
   "bakery": {
-    "height": 34,
+    "height": 38,
     "pixelRatio": 2,
-    "width": 30,
-    "x": 0,
-    "y": 76
+    "width": 34,
+    "x": 34,
+    "y": 38
   },
   "bakery_dark": {
     "height": 34,
     "pixelRatio": 2,
     "width": 30,
-    "x": 30,
-    "y": 76
+    "x": 90,
+    "y": 266
   },
   "bank": {
-    "height": 34,
+    "height": 38,
     "pixelRatio": 2,
-    "width": 30,
-    "x": 60,
-    "y": 76
+    "width": 34,
+    "x": 68,
+    "y": 0
   },
   "bank_dark": {
     "height": 34,
     "pixelRatio": 2,
     "width": 30,
-    "x": 90,
-    "y": 76
+    "x": 120,
+    "y": 266
   },
   "bar": {
-    "height": 34,
+    "height": 38,
     "pixelRatio": 2,
-    "width": 30,
-    "x": 120,
-    "y": 76
+    "width": 34,
+    "x": 102,
+    "y": 0
   },
   "bar_dark": {
     "height": 34,
     "pixelRatio": 2,
     "width": 30,
-    "x": 0,
-    "y": 110
+    "x": 150,
+    "y": 266
   },
   "beer": {
-    "height": 34,
+    "height": 38,
     "pixelRatio": 2,
-    "width": 30,
-    "x": 30,
-    "y": 110
+    "width": 34,
+    "x": 68,
+    "y": 38
   },
   "beer_dark": {
     "height": 34,
     "pixelRatio": 2,
     "width": 30,
-    "x": 60,
-    "y": 110
+    "x": 180,
+    "y": 266
   },
   "buddhist": {
-    "height": 34,
+    "height": 38,
     "pixelRatio": 2,
-    "width": 30,
-    "x": 90,
-    "y": 110
+    "width": 34,
+    "x": 102,
+    "y": 38
   },
   "buddhist_dark": {
     "height": 34,
     "pixelRatio": 2,
     "width": 30,
-    "x": 120,
-    "y": 110
+    "x": 210,
+    "y": 266
   },
   "bus": {
-    "height": 34,
+    "height": 38,
     "pixelRatio": 2,
-    "width": 30,
-    "x": 150,
+    "width": 34,
+    "x": 0,
     "y": 76
   },
   "bus_dark": {
     "height": 34,
     "pixelRatio": 2,
     "width": 30,
-    "x": 180,
-    "y": 76
+    "x": 240,
+    "y": 266
   },
   "cafe": {
-    "height": 34,
+    "height": 38,
     "pixelRatio": 2,
-    "width": 30,
-    "x": 210,
+    "width": 34,
+    "x": 34,
     "y": 76
   },
   "cafe_dark": {
     "height": 34,
     "pixelRatio": 2,
     "width": 30,
-    "x": 240,
-    "y": 76
+    "x": 270,
+    "y": 266
   },
   "campsite": {
-    "height": 34,
+    "height": 38,
     "pixelRatio": 2,
-    "width": 30,
-    "x": 270,
+    "width": 34,
+    "x": 68,
     "y": 76
   },
   "campsite_dark": {
     "height": 34,
     "pixelRatio": 2,
     "width": 30,
-    "x": 150,
-    "y": 110
+    "x": 300,
+    "y": 266
   },
   "car": {
-    "height": 34,
+    "height": 38,
     "pixelRatio": 2,
-    "width": 30,
-    "x": 180,
-    "y": 110
+    "width": 34,
+    "x": 102,
+    "y": 76
   },
   "car_dark": {
     "height": 34,
     "pixelRatio": 2,
     "width": 30,
-    "x": 210,
-    "y": 110
+    "x": 330,
+    "y": 266
   },
   "castle": {
-    "height": 34,
+    "height": 38,
     "pixelRatio": 2,
-    "width": 30,
-    "x": 240,
-    "y": 110
+    "width": 34,
+    "x": 0,
+    "y": 114
   },
   "castle_dark": {
     "height": 34,
     "pixelRatio": 2,
     "width": 30,
-    "x": 270,
-    "y": 110
+    "x": 360,
+    "y": 266
   },
   "cemetery": {
-    "height": 34,
+    "height": 38,
     "pixelRatio": 2,
-    "width": 30,
-    "x": 136,
-    "y": 0
+    "width": 34,
+    "x": 34,
+    "y": 114
   },
   "cemetery_dark": {
     "height": 34,
     "pixelRatio": 2,
     "width": 30,
-    "x": 166,
-    "y": 0
+    "x": 390,
+    "y": 266
   },
   "cinema": {
-    "height": 34,
+    "height": 38,
     "pixelRatio": 2,
-    "width": 30,
-    "x": 196,
-    "y": 0
+    "width": 34,
+    "x": 68,
+    "y": 114
   },
   "cinema_dark": {
     "height": 34,
     "pixelRatio": 2,
     "width": 30,
-    "x": 226,
-    "y": 0
+    "x": 420,
+    "y": 266
   },
   "clothing_store": {
-    "height": 34,
+    "height": 38,
     "pixelRatio": 2,
-    "width": 30,
-    "x": 256,
-    "y": 0
+    "width": 34,
+    "x": 102,
+    "y": 114
   },
   "clothing_store_dark": {
     "height": 34,
     "pixelRatio": 2,
     "width": 30,
-    "x": 150,
-    "y": 38
+    "x": 450,
+    "y": 266
   },
   "college": {
-    "height": 34,
+    "height": 38,
     "pixelRatio": 2,
-    "width": 30,
-    "x": 180,
-    "y": 38
+    "width": 34,
+    "x": 136,
+    "y": 0
   },
   "college_dark": {
     "height": 34,
     "pixelRatio": 2,
     "width": 30,
-    "x": 210,
-    "y": 38
+    "x": 480,
+    "y": 266
   },
   "dentist": {
-    "height": 34,
+    "height": 38,
     "pixelRatio": 2,
-    "width": 30,
-    "x": 240,
-    "y": 38
+    "width": 34,
+    "x": 170,
+    "y": 0
   },
   "dentist_dark": {
     "height": 34,
     "pixelRatio": 2,
     "width": 30,
-    "x": 270,
-    "y": 38
+    "x": 510,
+    "y": 266
   },
   "doctor": {
-    "height": 34,
+    "height": 38,
     "pixelRatio": 2,
-    "width": 30,
-    "x": 0,
-    "y": 144
+    "width": 34,
+    "x": 204,
+    "y": 0
   },
   "doctor_dark": {
     "height": 34,
     "pixelRatio": 2,
     "width": 30,
-    "x": 30,
-    "y": 144
+    "x": 272,
+    "y": 0
   },
   "embassy": {
-    "height": 34,
+    "height": 38,
     "pixelRatio": 2,
-    "width": 30,
-    "x": 60,
-    "y": 144
+    "width": 34,
+    "x": 238,
+    "y": 0
   },
   "embassy_dark": {
     "height": 34,
     "pixelRatio": 2,
     "width": 30,
-    "x": 90,
-    "y": 144
+    "x": 302,
+    "y": 0
   },
   "fast_food": {
-    "height": 34,
+    "height": 38,
     "pixelRatio": 2,
-    "width": 30,
-    "x": 120,
-    "y": 144
+    "width": 34,
+    "x": 136,
+    "y": 38
   },
   "fast_food_dark": {
     "height": 34,
     "pixelRatio": 2,
     "width": 30,
-    "x": 150,
-    "y": 144
+    "x": 332,
+    "y": 0
   },
   "fuel": {
-    "height": 34,
+    "height": 38,
     "pixelRatio": 2,
-    "width": 30,
-    "x": 180,
-    "y": 144
+    "width": 34,
+    "x": 170,
+    "y": 38
   },
   "fuel_dark": {
     "height": 34,
     "pixelRatio": 2,
     "width": 30,
-    "x": 210,
-    "y": 144
+    "x": 362,
+    "y": 0
   },
   "grocery": {
-    "height": 34,
+    "height": 38,
     "pixelRatio": 2,
-    "width": 30,
-    "x": 240,
-    "y": 144
+    "width": 34,
+    "x": 204,
+    "y": 38
   },
   "grocery_dark": {
     "height": 34,
     "pixelRatio": 2,
     "width": 30,
-    "x": 270,
-    "y": 144
+    "x": 392,
+    "y": 0
   },
   "health_post": {
-    "height": 34,
+    "height": 38,
     "pixelRatio": 2,
-    "width": 30,
-    "x": 0,
-    "y": 178
+    "width": 34,
+    "x": 238,
+    "y": 38
   },
   "health_post_dark": {
     "height": 34,
     "pixelRatio": 2,
     "width": 30,
-    "x": 30,
-    "y": 178
+    "x": 422,
+    "y": 0
   },
   "hindu": {
-    "height": 34,
+    "height": 38,
     "pixelRatio": 2,
-    "width": 30,
-    "x": 60,
-    "y": 178
+    "width": 34,
+    "x": 136,
+    "y": 76
   },
   "hindu_dark": {
     "height": 34,
     "pixelRatio": 2,
     "width": 30,
-    "x": 90,
-    "y": 178
+    "x": 452,
+    "y": 0
   },
   "hospital": {
-    "height": 34,
+    "height": 38,
     "pixelRatio": 2,
-    "width": 30,
-    "x": 120,
-    "y": 178
+    "width": 34,
+    "x": 170,
+    "y": 76
   },
   "hospital_dark": {
     "height": 34,
     "pixelRatio": 2,
     "width": 30,
-    "x": 150,
-    "y": 178
+    "x": 482,
+    "y": 0
   },
   "ice_cream": {
-    "height": 34,
+    "height": 38,
     "pixelRatio": 2,
-    "width": 30,
-    "x": 180,
-    "y": 178
+    "width": 34,
+    "x": 204,
+    "y": 76
   },
   "ice_cream_dark": {
     "height": 34,
     "pixelRatio": 2,
     "width": 30,
-    "x": 210,
-    "y": 178
+    "x": 512,
+    "y": 0
   },
   "laundry": {
-    "height": 34,
+    "height": 38,
     "pixelRatio": 2,
-    "width": 30,
-    "x": 240,
-    "y": 178
+    "width": 34,
+    "x": 238,
+    "y": 76
   },
   "laundry_dark": {
     "height": 34,
     "pixelRatio": 2,
     "width": 30,
-    "x": 270,
-    "y": 178
+    "x": 272,
+    "y": 38
   },
   "library": {
-    "height": 34,
+    "height": 38,
     "pixelRatio": 2,
-    "width": 30,
-    "x": 0,
-    "y": 212
+    "width": 34,
+    "x": 136,
+    "y": 114
   },
   "library_dark": {
     "height": 34,
     "pixelRatio": 2,
     "width": 30,
-    "x": 30,
-    "y": 212
+    "x": 302,
+    "y": 38
   },
   "lodging": {
-    "height": 34,
+    "height": 38,
     "pixelRatio": 2,
-    "width": 30,
-    "x": 60,
-    "y": 212
+    "width": 34,
+    "x": 170,
+    "y": 114
   },
   "lodging_dark": {
     "height": 34,
     "pixelRatio": 2,
     "width": 30,
-    "x": 90,
-    "y": 212
+    "x": 332,
+    "y": 38
   },
   "monument": {
-    "height": 34,
+    "height": 38,
     "pixelRatio": 2,
-    "width": 30,
-    "x": 120,
-    "y": 212
+    "width": 34,
+    "x": 204,
+    "y": 114
   },
   "monument_dark": {
     "height": 34,
     "pixelRatio": 2,
     "width": 30,
-    "x": 150,
-    "y": 212
+    "x": 362,
+    "y": 38
   },
   "museum": {
-    "height": 34,
+    "height": 38,
     "pixelRatio": 2,
-    "width": 30,
-    "x": 180,
-    "y": 212
+    "width": 34,
+    "x": 238,
+    "y": 114
   },
   "museum_dark": {
     "height": 34,
     "pixelRatio": 2,
     "width": 30,
-    "x": 210,
-    "y": 212
+    "x": 392,
+    "y": 38
   },
   "office": {
-    "height": 34,
+    "height": 38,
     "pixelRatio": 2,
-    "width": 30,
-    "x": 240,
-    "y": 212
+    "width": 34,
+    "x": 0,
+    "y": 152
   },
   "office_dark": {
     "height": 34,
     "pixelRatio": 2,
     "width": 30,
-    "x": 270,
-    "y": 212
+    "x": 422,
+    "y": 38
   },
   "oneway": {
     "height": 38,
     "pixelRatio": 2,
     "width": 38,
-    "x": 0,
-    "y": 0
+    "x": 34,
+    "y": 152
   },
   "oneway_dark": {
     "height": 38,
     "pixelRatio": 2,
     "width": 38,
-    "x": 38,
-    "y": 0
+    "x": 72,
+    "y": 152
   },
   "others": {
-    "height": 30,
+    "height": 34,
     "pixelRatio": 2,
-    "width": 30,
-    "x": 510,
-    "y": 144
+    "width": 34,
+    "x": 452,
+    "y": 38
   },
   "others_dark": {
     "height": 30,
     "pixelRatio": 2,
     "width": 30,
-    "x": 540,
-    "y": 144
+    "x": 512,
+    "y": 114
   },
   "park": {
-    "height": 34,
+    "height": 38,
     "pixelRatio": 2,
-    "width": 30,
-    "x": 0,
-    "y": 246
+    "width": 34,
+    "x": 110,
+    "y": 152
   },
   "park_dark": {
     "height": 34,
     "pixelRatio": 2,
     "width": 30,
-    "x": 30,
-    "y": 246
+    "x": 486,
+    "y": 38
   },
   "parking": {
-    "height": 34,
+    "height": 38,
     "pixelRatio": 2,
-    "width": 30,
-    "x": 60,
-    "y": 246
+    "width": 34,
+    "x": 144,
+    "y": 152
   },
   "parking_dark": {
     "height": 34,
     "pixelRatio": 2,
     "width": 30,
-    "x": 90,
-    "y": 246
+    "x": 272,
+    "y": 76
   },
   "peak": {
-    "height": 34,
+    "height": 38,
     "pixelRatio": 2,
-    "width": 30,
-    "x": 120,
-    "y": 246
+    "width": 34,
+    "x": 178,
+    "y": 152
   },
   "peak_dark": {
     "height": 34,
     "pixelRatio": 2,
     "width": 30,
-    "x": 150,
-    "y": 246
+    "x": 302,
+    "y": 76
   },
   "pharmacy": {
-    "height": 34,
+    "height": 38,
     "pixelRatio": 2,
-    "width": 30,
-    "x": 180,
-    "y": 246
+    "width": 34,
+    "x": 212,
+    "y": 152
   },
   "pharmacy_dark": {
     "height": 34,
     "pixelRatio": 2,
     "width": 30,
-    "x": 210,
-    "y": 246
+    "x": 332,
+    "y": 76
   },
   "place_of_worship": {
-    "height": 34,
+    "height": 38,
     "pixelRatio": 2,
-    "width": 30,
-    "x": 240,
-    "y": 246
+    "width": 34,
+    "x": 0,
+    "y": 190
   },
   "place_of_worship_dark": {
     "height": 34,
     "pixelRatio": 2,
     "width": 30,
-    "x": 270,
-    "y": 246
+    "x": 362,
+    "y": 76
   },
   "playground": {
-    "height": 34,
+    "height": 38,
     "pixelRatio": 2,
-    "width": 30,
-    "x": 300,
-    "y": 76
+    "width": 34,
+    "x": 34,
+    "y": 190
   },
   "playground_dark": {
     "height": 34,
     "pixelRatio": 2,
     "width": 30,
-    "x": 330,
+    "x": 392,
     "y": 76
   },
   "police": {
-    "height": 34,
+    "height": 38,
     "pixelRatio": 2,
-    "width": 30,
-    "x": 360,
-    "y": 76
+    "width": 34,
+    "x": 68,
+    "y": 190
   },
   "police_dark": {
     "height": 34,
     "pixelRatio": 2,
     "width": 30,
-    "x": 390,
+    "x": 422,
     "y": 76
   },
   "post": {
-    "height": 34,
+    "height": 38,
     "pixelRatio": 2,
-    "width": 30,
-    "x": 420,
-    "y": 76
+    "width": 34,
+    "x": 102,
+    "y": 190
   },
   "post_dark": {
     "height": 34,
     "pixelRatio": 2,
     "width": 30,
-    "x": 450,
+    "x": 452,
     "y": 76
   },
   "prison": {
-    "height": 34,
+    "height": 38,
     "pixelRatio": 2,
-    "width": 30,
-    "x": 480,
-    "y": 76
+    "width": 34,
+    "x": 136,
+    "y": 190
   },
   "prison_dark": {
     "height": 38,
     "pixelRatio": 2,
     "width": 30,
-    "x": 0,
-    "y": 38
+    "x": 170,
+    "y": 190
   },
   "restaurant": {
-    "height": 34,
+    "height": 38,
     "pixelRatio": 2,
-    "width": 30,
-    "x": 510,
-    "y": 76
+    "width": 34,
+    "x": 200,
+    "y": 190
   },
   "restaurant_dark": {
     "height": 34,
     "pixelRatio": 2,
     "width": 30,
-    "x": 540,
+    "x": 482,
     "y": 76
   },
   "school": {
-    "height": 34,
+    "height": 38,
     "pixelRatio": 2,
-    "width": 30,
-    "x": 570,
-    "y": 76
+    "width": 34,
+    "x": 234,
+    "y": 190
   },
   "school_dark": {
     "height": 34,
     "pixelRatio": 2,
     "width": 30,
-    "x": 300,
-    "y": 110
+    "x": 512,
+    "y": 76
   },
   "shelter": {
-    "height": 34,
+    "height": 38,
     "pixelRatio": 2,
-    "width": 30,
-    "x": 330,
-    "y": 110
+    "width": 34,
+    "x": 0,
+    "y": 228
   },
   "shelter_dark": {
     "height": 34,
     "pixelRatio": 2,
     "width": 30,
-    "x": 360,
-    "y": 110
+    "x": 272,
+    "y": 114
   },
   "shop": {
-    "height": 34,
+    "height": 38,
     "pixelRatio": 2,
-    "width": 30,
-    "x": 390,
-    "y": 110
+    "width": 34,
+    "x": 34,
+    "y": 228
   },
   "shop_dark": {
     "height": 34,
     "pixelRatio": 2,
     "width": 30,
-    "x": 420,
-    "y": 110
+    "x": 302,
+    "y": 114
   },
   "stadium": {
-    "height": 34,
+    "height": 38,
     "pixelRatio": 2,
-    "width": 30,
-    "x": 450,
-    "y": 110
+    "width": 34,
+    "x": 68,
+    "y": 228
   },
   "stadium_dark": {
     "height": 34,
     "pixelRatio": 2,
     "width": 30,
-    "x": 480,
-    "y": 110
+    "x": 332,
+    "y": 114
   },
   "swimming": {
-    "height": 34,
+    "height": 38,
     "pixelRatio": 2,
-    "width": 30,
-    "x": 510,
-    "y": 110
+    "width": 34,
+    "x": 102,
+    "y": 228
   },
   "swimming_dark": {
     "height": 34,
     "pixelRatio": 2,
     "width": 30,
-    "x": 540,
-    "y": 110
+    "x": 362,
+    "y": 114
   },
   "toilet": {
-    "height": 34,
+    "height": 38,
     "pixelRatio": 2,
-    "width": 30,
-    "x": 570,
-    "y": 110
+    "width": 34,
+    "x": 136,
+    "y": 228
   },
   "toilet_dark": {
     "height": 34,
     "pixelRatio": 2,
     "width": 30,
-    "x": 300,
-    "y": 144
+    "x": 392,
+    "y": 114
   },
   "veterinary": {
-    "height": 34,
+    "height": 38,
     "pixelRatio": 2,
-    "width": 30,
-    "x": 330,
-    "y": 144
+    "width": 34,
+    "x": 170,
+    "y": 228
   },
   "veterinary_dark": {
     "height": 34,
     "pixelRatio": 2,
     "width": 30,
-    "x": 360,
-    "y": 144
+    "x": 422,
+    "y": 114
   },
   "zoo": {
-    "height": 34,
+    "height": 38,
     "pixelRatio": 2,
-    "width": 30,
-    "x": 390,
-    "y": 144
+    "width": 34,
+    "x": 204,
+    "y": 228
   },
   "zoo_dark": {
     "height": 34,
     "pixelRatio": 2,
     "width": 30,
-    "x": 420,
-    "y": 144
+    "x": 452,
+    "y": 114
   }
 }
